@@ -1,0 +1,6 @@
+2,ram,M,20,Abuse,45,5'8,60,1 year jail and 10000 fine,udupi,9635456986,23-06-2023
+3,Raj,M,25,Murder,45(B),5'9,72,15 years jail,Udupi,9654785698,26-06-2023
+4,sahil,M,21,abuse,45,5'9,90,5 years jail,mysore,963245678,15-07-2023
+5,rar,M,25,fag,45,5'9,78,gag,usu,9653445545,17-05-2023
+34|Dinakar Babu|M|29|Murder|46(A)|5'9|85|15 years jail|Jayanagar, Bangalore|8956256489|12-06-2023
+38|murali|M|35|Harassing children|89(C)|5'7|78|5 years jail and 50000 fine|chikmagalur|8945784562|17-12-2023
